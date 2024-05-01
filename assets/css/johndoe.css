@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: #6c757d;
   text-decoration: none;
   background-color: transparent;
 }
@@ -11537,9 +11537,9 @@ pre .code {
 }
 
 .header .header-content .header-title {
-  font-size: calc(40px + (120 - 40) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(30px + (120 - 40) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
-  line-height: .7;
+  line-height: .90;
   margin-bottom: 25px;
   color: inherit;
 }
